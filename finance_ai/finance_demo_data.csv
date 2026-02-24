@@ -1,0 +1,34 @@
+date,title,store,amount,is_expense,category,currency,notes
+2025-12-01,Salary,,6500.00,false,Salary,MYR,Monthly tech salary
+2025-12-02,Rent,,1800.00,true,Housing,MYR,December apartment rent
+2025-12-05,Groceries,Jaya Grocer,210.50,true,Food,MYR,Weekly restock
+2025-12-08,Electricity,TNB,115.00,true,Utilities,MYR,November usage
+2025-12-10,Internet,Time,139.00,true,Utilities,MYR,Monthly broadband
+2025-12-12,Dinner with Friends,Din Tai Fung,150.00,true,Food,MYR,Catch up
+2025-12-15,Petrol,Shell,85.00,true,Transportation,MYR,Full tank
+2025-12-20,Christmas Gifts,Pavilion,450.00,true,Shopping,MYR,Holiday presents
+2025-12-22,End of year bonus,,2000.00,false,Salary,MYR,Performance bonus
+2025-12-28,New Year Eve Party,Zouk,250.00,true,Entertainment,MYR,Celebration
+2026-01-01,Salary,,6500.00,false,Salary,MYR,Monthly tech salary
+2026-01-02,Rent,,1800.00,true,Housing,MYR,January apartment rent
+2026-01-04,Coffee,Starbucks,18.50,true,Food,MYR,Morning coffee
+2026-01-07,Groceries,Village Grocer,185.20,true,Food,MYR,Healthy food run
+2026-01-10,Electricity,TNB,125.00,true,Utilities,MYR,December usage
+2026-01-11,Internet,Time,139.00,true,Utilities,MYR,Monthly broadband
+2026-01-14,Gym Membership,Anytime Fitness,160.00,true,Health,MYR,Monthly dues
+2026-01-18,Petrol,Petronas,75.00,true,Transportation,MYR,Commute fuel
+2026-01-20,Sneakers,Nike Store,350.00,true,Shopping,MYR,Running shoes
+2026-01-25,Movie Night,GSC,45.00,true,Entertainment,MYR,Tickets and popcorn
+2026-01-30,Dividend Payout,Maybank,120.00,false,Investment,MYR,Q4 Dividends
+2026-02-01,Salary,,6500.00,false,Salary,MYR,Monthly tech salary
+2026-02-02,Rent,,1800.00,true,Housing,MYR,February apartment rent
+2026-02-03,Headphones,Sony,850.00,true,Shopping,MYR,Noise cancelling
+2026-02-05,Groceries,Jaya Grocer,220.00,true,Food,MYR,Heavy restock
+2026-02-08,Electricity,TNB,145.00,true,Utilities,MYR,January usage (Aircon)
+2026-02-10,Internet,Time,139.00,true,Utilities,MYR,Monthly broadband
+2026-02-12,Pharmacy,Watsons,65.00,true,Health,MYR,Vitamins
+2026-02-14,Valentine's Dinner,Marini's,450.00,true,Food,MYR,Special occasion
+2026-02-16,Petrol,Shell,80.00,true,Transportation,MYR,Refill
+2026-02-18,Steam Games,Steam,120.00,true,Entertainment,MYR,Spring Sale
+2026-02-20,Freelance Project,,1500.00,false,Salary,MYR,Web design gig
+2026-02-22,Car Wash,Local Shop,20.00,true,Transportation,MYR,Cleaning
